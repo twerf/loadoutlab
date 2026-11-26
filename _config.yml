@@ -1,0 +1,12 @@
+title: Loadout Lab
+description: Honest picks for gaming desks, streaming setups and creator gear.
+baseurl: /loadoutlab
+url: https://twerf.github.io
+theme: minima
+permalink: /:title/
+header_pages:
+  - about.md
+  - disclosure.md
+  - privacy.md
+minima:
+  skin: auto
