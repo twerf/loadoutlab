@@ -15,6 +15,9 @@ image: /assets/img/best-controller-headphone-stand-gaming-desk.png
 layout: post
 ---
 
+*As an Amazon Associate, Loadout Lab earns from qualifying purchases. Links below may be affiliate links.*
+
+
 ![header](/loadoutlab/assets/img/best-controller-headphone-stand-gaming-desk.png)
 
 A good controller and headphone stand does two things: it clears desk space and keeps your gear from getting dinged up. If you've got a PS5, Xbox, or Switch and a headset crowding your desk, you already know the problem.
@@ -41,6 +44,8 @@ We looked at the most-bought gaming stands on Amazon and picked five that actual
 
 ### Best Budget Pick: Kytok Controller Stand 4 Tiers with Cable Organizer
 
+**[Check price on Amazon](https://www.amazon.com/s?k=Kytok+Controller+Stand+4+Tiers&tag=loadoutlab0d-20)**
+
 **$21.84** | 4.7★ (1,200+ reviews)
 
 If you've got multiple controllers and want them organized vertically without spending much, this is it. The Kytok holds up to 8 controllers across four tiers. The cable organizer at the base keeps charging cables from turning into spaghetti.
@@ -54,6 +59,8 @@ If you've got multiple controllers and want them organized vertically without sp
 ---
 
 ### Best RGB Pick: KDD RGB Headset Stand with 9 Light Modes + Controller Holder
+
+**[Check price on Amazon](https://www.amazon.com/s?k=KDD+RGB+Headset+Stand&tag=loadoutlab0d-20)**
 
 **$22.46** | 4.7★ (1,300+ reviews)
 
@@ -69,6 +76,8 @@ If your desk looks like a spaceship and you want your stand to match, here's you
 
 ### Best-Looking Pick: UPERGO Headset Stand with Controller Holder, Walnut Wood + Storage Base
 
+**[Check price on Amazon](https://www.amazon.com/s?k=UPERGO+Headset+Stand&tag=loadoutlab0d-20)**
+
 **$35.99** | 4.8★ (100+ reviews)
 
 This is the stand people photograph. Walnut wood, curved headset cradle, solid metal base, and a little drawer underneath for charging cables or earbuds. It looks like it costs more than it does.
@@ -83,6 +92,8 @@ This is the stand people photograph. Walnut wood, curved headset cradle, solid m
 
 ### Best Value Wood Pick: CUIWHRL Controller and Headphone Stand (Wood/Gold, 2-in-1)
 
+**[Check price on Amazon](https://www.amazon.com/s?k=CUIWHRL+Controller+and+Headphone+Stand&tag=loadoutlab0d-20)**
+
 **$21.99** | 4.6★ (215 reviews)
 
 Same idea as the UPERGO but cheaper and smaller. Wood construction (looks like beech or similar light wood), gold accents, cradles one controller and one headset. Fits small desks.
@@ -96,6 +107,8 @@ Same idea as the UPERGO but cheaper and smaller. Wood construction (looks like b
 ---
 
 ### Best for Storage: KDD Headphone Stand with Drawer + Cable Organizer
+
+**[Check price on Amazon](https://www.amazon.com/s?k=KDD+Headphone+Stand&tag=loadoutlab0d-20)**
 
 **$17.47** | 4.7★ (700+ reviews)
 
